@@ -1,2 +1,0 @@
-# paracasexplorer
-paracas explorer
